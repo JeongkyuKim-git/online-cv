@@ -108,6 +108,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -115,7 +116,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 졸업논문
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -182,14 +183,11 @@ skills:
       - name: Linux
         level: 70%
       
-      - name: Web Dev (HTML,CSS,JS,PHP)
+      - name: HTML & CSS & JS & PHP
         level: 75%
       
-      - name: PowerPoint & Prism using to figure make
-        level: 92%
-
-      - name: Research & English protocol understand
-        level: 93%
+      - name: PowerPoint & Prism
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
