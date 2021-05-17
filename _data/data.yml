@@ -86,9 +86,9 @@ projects:
         link: "#"
         tagline: "Etc."
 
-      - title: 졸업 논문
+      - title: 졸업 논문 (Re-sequencing pipeline)
         link: "https://github.com/JeongkyuKim-git/University_course/tree/main/Master_thesis"
-        tagline: "DNA (data) --> Re-sequencing pipeline"
+        tagline: "DNA (data) --> Anchoring–based Alignment Algorithm"
 
       - title: 포스터 발표
         link: "https://github.com/JeongkyuKim-git/University_course/tree/main/Korea_journal"
