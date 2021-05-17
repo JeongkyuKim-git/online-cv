@@ -163,36 +163,36 @@ publications:
 awards:
     title: Awards
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 우수논문상
+        link: "http://kmms.or.kr/"
+        tagline: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 66%
+      
+      - name: Git
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 70%
+      
+      - name: Web Dev (HTML,CSS,JS,PHP)
+        level: 75%
+      
+      - name: PowerPoint & Prism using to figure make
+        level: 92%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: Research & English protocol understand
+        level: 93%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
