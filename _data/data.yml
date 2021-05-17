@@ -68,7 +68,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Master's Dgree
+    - role: Master's dgree
       time: 2019 - 2021
       company: Num-6113, New Engineering Building, 30 Pildong-ro 1-gil Seoul, 04620, Korea
       details: |
@@ -82,21 +82,21 @@ projects:
     intro: >
       Projects for the last three years.
     assignments:
-      - title: .Etc
+      - title: Etc.
         link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Etc."
 
       - title: 졸업 논문
         link: "https://github.com/JeongkyuKim-git/University_course/tree/main/Master_thesis"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "DNA (data) --> Re-sequencing pipeline"
 
       - title: 포스터 발표
         link: "https://github.com/JeongkyuKim-git/University_course/tree/main/Korea_journal"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Study on k-mer & hash-table"
 
       - title: 졸업 작품 (Web Front-End & Back-End)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "5-violent crime (data) --> Web service"
 
 awards:
     title: Awards
@@ -105,7 +105,7 @@ awards:
     assignments:
       - title: 우수논문상
         link: "http://kmms.or.kr/"
-        tagline: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12"
+        tagline: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12."
 
 publications:
     title: Publications
@@ -115,7 +115,7 @@ publications:
       - title: A Review on Sequence Alignment Algorithms for Short Reads Based on Next-Generation Sequencing
         link: "https://ieeexplore.ieee.org/abstract/document/9223667"
         authors: J. Kim, M. Ji and G. Yi
-        conference: "in IEEE Access, vol. 8, pp. 189811-189822, 2020"
+        conference: "in IEEE Access, vol. 8, pp. 189811-189822, 2020."
 
       - title: "Research on Anchoring–based Alignment Algorithm of DNA Sequences"
         link: "http://dcol.dongguk.edu/public_resource/pdf/000000082374_20210517201221.pdf"
@@ -126,7 +126,7 @@ publications:
       - title: "k-mer 방식의 짧은 리드를 활용한 해시 테이블 기반의 정렬 과정 연구"
         link: "http://kmms.or.kr/"
         authors: 김정규, 지민근, 이강만
-        conference: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12"
+        conference: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12."
 
 skills:
     title: Skills &amp; Proficiency
