@@ -31,7 +31,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        #level: Professional
+        level: Proficient
 
     interests:
       - item: Soccer
@@ -182,10 +182,17 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-Awards:
+awards:
     title: Awards
-    intro: |
-      You ca
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
