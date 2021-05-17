@@ -55,8 +55,7 @@ education:
       university: Dongguck University
       time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        Describe your study here lorem ipsum dolor sit amet
           - Bullet point
           - Bullet point
 
@@ -64,99 +63,40 @@ education:
       university: Dongguck University
       time: 2013 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet
           - Bullet point
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Master's Dgree
+      time: 2019 - 2021
+      company: num-6113, New Engineering Building, 30 Pildong-ro 1-gil Seoul, 04620, Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet 
-          
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+        Studies bioinformatics as a big data lab.
+          - development of computational methods to improve understanding of big data from biological systems.
+          - Bioinformatics, Bigdata, ML/AI
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projects for the last three years.
     assignments:
-      - title: 졸업논문
+      - title: .etc
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: 졸업 논문
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: 포스터 발표
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: 졸업 작품 (Web Front-End & Back-End)
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 awards:
     title: Awards
@@ -166,6 +106,27 @@ awards:
       - title: 우수논문상
         link: "http://kmms.or.kr/"
         tagline: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12"
+
+publications:
+    title: Publications
+    intro: |
+      This section is a published paper in KCI or SCI & SCIE journals.
+    papers:
+      - title: A Review on Sequence Alignment Algorithms for Short Reads Based on Next-Generation Sequencing
+        link: "https://ieeexplore.ieee.org/abstract/document/9223667"
+        authors: J. Kim, M. Ji and G. Yi
+        conference: "in IEEE Access, vol. 8, pp. 189811-189822, 2020"
+
+      - title: "Research on Anchoring–based Alignment Algorithm of DNA Sequences"
+        link: "http://dcol.dongguk.edu/public_resource/pdf/000000082374_20210517201221.pdf"
+        authors: 김정규
+        conference: "학위논문(석사)동국대학교 일반대학원:멀티미디어공학과,2021. 2."
+
+
+      - title: "k-mer 방식의 짧은 리드를 활용한 해시 테이블 기반의 정렬 과정 연구"
+        link: "http://kmms.or.kr/"
+        authors: 김정규, 지민근, 이강만
+        conference: "Korea Multimedia Society, 한멀회 2020-019호, 2020.08.12"
 
 skills:
     title: Skills &amp; Proficiency
